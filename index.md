@@ -10,22 +10,22 @@
 <script src=""></script>
 <body>
 <div class="w3-container w3-center w3-teal">
-  <h1>This is a Heading</h1>
-  <p>This is a paragraph.</p>
-  <p>This is another paragraph.</p>
+  <h1>Seek 71</h1>
+  <p>Trash 1</p>
+  <p>Trash 2</p>
 </div>
 
 <div class="w3-container w3-black">
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<p>This is another paragraph.</p>
+<h1>Important Info</h1>
+<p>Yellow 21/ code 5.</p>
+<p>immediate prep!.</p>
 </div>
 
 <div style="overflow-x: auto;" align="left">
 <p></p>
 <h1>Select for Crap City</h1>
 <p></p>
-<a href="number/num.html">Mobile Number Game</a>
+<a href="/Deetah/NumberGame/number/num.html">Mobile Number Game</a>
 </div>
 
 
